@@ -1,4 +1,4 @@
-# Family Travel Tracker
+# ✈️ Family Travel Tracker
 
 A personalized travel tracking application designed for families. This project allows each family member to manage their travel history through unique user interfaces. Travel data is sourced from a countries.csv file and can also be manually updated. All records are securely stored in a PostgreSQL database for efficient data management.
 
